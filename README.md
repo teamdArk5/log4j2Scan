@@ -2,9 +2,11 @@
  对pmiaowu的作品新增自定义dnslog平台
 
 config.yml配置：
+
 `other: "token=admin;Identifier=admin1.log.dark5.net;dnslogDomainName=ns.dark5.net:8000;"`
 
 Identifier：指你的dnslog域名
+
 dnslogDomainName：指你dnslog平台的地址
 
 **注意！**
